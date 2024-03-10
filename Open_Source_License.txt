@@ -1,0 +1,54 @@
+开源协议
+
+版权声明
+
+本软件及其相关文档（以下简称“Anix”）由 小陈同学 提供，并受版权保护。任何单位或个人使用、复制、分发、修改、再许可或基于本软件进行创作，均须遵守本开源协议。
+
+开源协议条款
+
+授权与限制
+
+您可以在遵守本开源协议的前提下，免费使用、复制、分发、修改和再许可本软件，但不得用于商业目的。
+
+保留权利
+
+本开源协议未明确授予的权利均保留。未经小陈同学明确书面许可，您不得行使本开源协议未明确授予的任何权利。
+
+免责声明
+
+本软件按“原样”提供，不附带任何形式的保证，包括但不限于商业适用性、特定用途适用性和无病毒保证。使用本软件的风险由用户自行承担。
+
+知识产权
+
+本软件及其相关文档所含的知识产权归小陈同学 所有。您在使用、复制、分发、修改或再许可本软件时，应遵守相关法律法规，并不得侵犯小陈同学或其他方的知识产权。
+
+法律适用与争议解决
+
+本开源协议适用中国法律。因执行本开源协议所产生的或与本开源协议有关的任何争议，双方应首先通过友好协商解决；协商不成的，任何一方均有权将争议提交中国法院诉讼解决。
+Open Source License
+
+Copyright Notice
+
+This software and its related documentation (hereinafter referred to as "Anix") are provided by Xiao Chen and are protected by copyright law. Any unit or individual using, copying, distributing, modifying, relicensing, or creating based on this software must comply with this Open Source License.
+
+Terms of the Open Source License
+
+Authorization and Restrictions
+
+You may use, copy, distribute, modify, and relicense this software free of charge under the premise of complying with this Open Source License, but it cannot be used for commercial purposes.
+
+Reserved Rights
+
+All rights not expressly granted by this Open Source License are reserved. Without the express written permission of Xiao Chen, you may not exercise any rights not explicitly granted by this Open Source License.
+
+Disclaimer
+
+This software is provided "as is" without any warranty of any kind, including but not limited to merchantability, fitness for a particular purpose, and freedom from viruses. The risk of using this software is borne by the user.
+
+Intellectual Property Rights
+
+The intellectual property rights contained in this software and its related documentation belong to Xiao Chen. When using, copying, distributing, modifying, or relicensing this software, you should comply with relevant laws and regulations and shall not infringe upon the intellectual property rights of Xiao Chen or other parties.
+
+Governing Law and Dispute Resolution
+
+This Open Source License shall be governed by the laws of China. Any dispute arising from or related to the execution of this Open Source License shall be first resolved through friendly negotiation between the parties; if the negotiation fails, any party shall have the right to submit the dispute to the court of China for litigation.
